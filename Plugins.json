@@ -290,5 +290,12 @@
   {
     "url": "https://github.com/larkum/StreamController-SpeedtestPlus",
     "hash": "f2aa82563fa53997f9c2be26c316daf3f35d1ce0"
+  },
+  {
+    "url": "https://github.com/oparada1988/AppLauncher",
+    "hash": "605ef25982d5feb3a94cfa14fb2003dc1bf288a7",
+    "commits": {
+      "0.1.0": "605ef25982d5feb3a94cfa14fb2003dc1bf288a7"
+    }
   }
 ]
